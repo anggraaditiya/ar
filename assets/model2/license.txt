@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly USB Power Bank
+* source:	https://sketchfab.com/3d-models/low-poly-usb-power-bank-754c459855024873a17b44a89f6562ef
+* author:	dartuchiwa (https://sketchfab.com/dartuchiwa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly USB Power Bank" (https://sketchfab.com/3d-models/low-poly-usb-power-bank-754c459855024873a17b44a89f6562ef) by dartuchiwa (https://sketchfab.com/dartuchiwa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

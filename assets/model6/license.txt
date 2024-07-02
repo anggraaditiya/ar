@@ -1,0 +1,11 @@
+Model Information:
+* title:	充电宝 - Power bank
+* source:	https://sketchfab.com/3d-models/power-bank-7bc8d625615d445b9b15ed857f058198
+* author:	MrdT (https://sketchfab.com/mrdt.club)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "充电宝 - Power bank" (https://sketchfab.com/3d-models/power-bank-7bc8d625615d445b9b15ed857f058198) by MrdT (https://sketchfab.com/mrdt.club) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

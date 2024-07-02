@@ -1,0 +1,11 @@
+Model Information:
+* title:	V.E.P. VIII: Electric Power Station
+* source:	https://sketchfab.com/3d-models/vep-viii-electric-power-station-73035ae072424c67926239eb55d22381
+* author:	Kevin Mercer (https://sketchfab.com/kevinmercer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "V.E.P. VIII: Electric Power Station" (https://sketchfab.com/3d-models/vep-viii-electric-power-station-73035ae072424c67926239eb55d22381) by Kevin Mercer (https://sketchfab.com/kevinmercer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

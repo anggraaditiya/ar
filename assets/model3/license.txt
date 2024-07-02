@@ -1,0 +1,11 @@
+Model Information:
+* title:	Power Bank - Silver
+* source:	https://sketchfab.com/3d-models/power-bank-silver-3e826f71ba3b4e789b2b6373ba78ab65
+* author:	Lipo (https://sketchfab.com/Lipo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Power Bank - Silver" (https://sketchfab.com/3d-models/power-bank-silver-3e826f71ba3b4e789b2b6373ba78ab65) by Lipo (https://sketchfab.com/Lipo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
